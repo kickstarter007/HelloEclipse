@@ -1,6 +1,6 @@
 
 public class HelloApp {
 	public static void main(String[] args){
-		System.out.println("Hello, My name is KickStarterWest");
+		System.out.println("Hello, My name is Sam Westfield");
 	}
 }
